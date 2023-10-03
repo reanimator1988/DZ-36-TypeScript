@@ -1,0 +1,76 @@
+/*!***********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/App.scss ***!
+  \***********************************************************************************************************************************/
+.app-container {
+  margin: 0 auto;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.app-title {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px; }
+
+.app-container input {
+  padding: 5px;
+  margin: 15px 0; }
+
+.input-container {
+  display: block;
+  margin-bottom: 10px; }
+
+.app-container input {
+  padding: 5px;
+  margin: 10px; }
+
+.info {
+  font-size: 12px;
+  margin-left: 5px; }
+
+.app-container button {
+  border-radius: 5px;
+  background-color: #32dcfa;
+  margin-top: 10px; }
+
+.shopping-item-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px; }
+
+.edit-input {
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-right: 10px; }
+
+.item-caption,
+.item-amount {
+  flex: 1;
+  font-size: 16px;
+  padding: 5px; }
+
+h1 {
+  font-size: 43px;
+  text-align: center;
+  margin: 0;
+  padding-top: 25px;
+  margin-bottom: 50px; }
+
+.app-container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center; }
+
+.app-title {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px; }
+
