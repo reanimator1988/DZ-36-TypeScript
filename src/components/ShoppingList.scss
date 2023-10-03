@@ -1,0 +1,46 @@
+.app-container {
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .app-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .app-container input {
+    padding: 5px;
+    margin: 15px 0;
+  }
+
+  .input-container {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+.app-container input {
+    padding: 5px;
+    margin: 10px;
+}
+
+ .info {
+    font-size: 12px;
+    margin-left: 5px;
+}
+  
+  .app-container button {
+    border-radius: 5px;
+    background-color: rgb(50, 220, 250);
+    margin-top: 10px;
+  }
+  
+  

@@ -1,0 +1,23 @@
+@import './components/ShoppingList.scss';
+@import './components/ShoppingItem.scss';
+
+h1 {
+    font-size: 43px;
+    text-align: center;
+    margin: 0;
+    padding-top: 25px;
+    margin-bottom: 50px;
+  }
+
+  .app-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
